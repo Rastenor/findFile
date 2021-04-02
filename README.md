@@ -1,6 +1,6 @@
 # findFile
 
-Search through drives and folders using windows cli terminal.
+Search through drives or folders and their subfolders using windows cli terminal.
 
 usage: 
   run findeFile.py in cli
